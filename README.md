@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Enmanuel Bayen</h1>
 <h3 align="center">Studying at Microverse, on track to become a Full-Stack Developer</h3>
-(img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGZhNjBjM2FhYWVjZmM2ODcxMGFjYjI5MWVmZmEzZDk4YjM2YTlkMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif")
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGZhNjBjM2FhYWVjZmM2ODcxMGFjYjI5MWVmZmEzZDk4YjM2YTlkMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enmanuelbayen&label=Profile%20views&color=0e75b6&style=flat" alt="enmanuelbayen" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enmanuelbayen" alt="enmanuelbayen" /></a> </p>
