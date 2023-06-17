@@ -3,13 +3,11 @@
 <img align="right" alt="Coding" width="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGZhNjBjM2FhYWVjZmM2ODcxMGFjYjI5MWVmZmEzZDk4YjM2YTlkMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enmanuelbayen&label=Profile%20views&color=0e75b6&style=flat" alt="enmanuelbayen" /> </p>
 
-- 🔭 I’m currently working on [To Do List website](https://enmanuelbayen.github.io/To-Do-List-Project/dist/)
-
-- 🌱 I’m currently learning **Jest.**
+- 🌱 I’m currently learning **React&Redux.**
 
 - 👨‍💻 All of my projects are available at [https://enmanuelbayen.github.io/Portfolio/](https://enmanuelbayen.github.io/Portfolio/)
 
-- 💬 Ask me about **JavaScript, Html, Css, Webpack, Testing.**
+- 💬 Ask me about **JavaScript, Html, CSS, Webpack and Testing.**
 
 - 📫 How to reach me **enmanuel0495@gmail.com**
 
