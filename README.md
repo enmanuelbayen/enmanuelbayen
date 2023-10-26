@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enmanuelbayen&label=Profile%20views&color=0e75b6&style=flat" alt="enmanuelbayen" /> </p>
 
-- 👨‍💻 All of my projects are available on my portfolio (here)[https://enmanuelbayen.github.io/Portfolio/](https://enmanuelbayen.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available on my portfolio [here](https://enmanuelbayen.github.io/Portfolio/](https://enmanuelbayen.github.io/Portfolio/)
 
 - 💬 Ask me about **JavaScript, Html, Css, Webpack, Testing.**
 
 - 📫 How to reach me **enmanuelbayendev@gmail.com**
 
-- 📄 Know about my experiences - (Resume)[https://docs.google.com/document/d/1_CtMQnDm3OWbaLrx4kr1HU5dNcU51SDZEDQokOJCEGg/edit](https://docs.google.com/document/d/1_CtMQnDm3OWbaLrx4kr1HU5dNcU51SDZEDQokOJCEGg/edit)
+- 📄 Know about my experiences - [Resume](https://docs.google.com/document/d/1_CtMQnDm3OWbaLrx4kr1HU5dNcU51SDZEDQokOJCEGg/edit)(https://docs.google.com/document/d/1_CtMQnDm3OWbaLrx4kr1HU5dNcU51SDZEDQokOJCEGg/edit)
 
 - ⚡ Fun fact **I love video games and exploration.**
 
