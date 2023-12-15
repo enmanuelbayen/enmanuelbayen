@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **enmanuelbayendev@gmail.com**
 
-- 📄 Know about my experiences - <a href="[https://docs.google.com/document/d/1_CtMQnDm3OWbaLrx4kr1HU5dNcU51SDZEDQokOJCEGg/edit](https://drive.google.com/file/d/1ShLoGB7QErlsGAaFKqdeMH-GlwxozkG7/view?usp=sharing)">Resume</a>
+- 📄 Know about my experiences - <a href="https://drive.google.com/file/d/1ShLoGB7QErlsGAaFKqdeMH-GlwxozkG7/view?usp=sharing">Resume</a>
 
 - ⚡ Fun fact **I love video games and exploration.**
 
